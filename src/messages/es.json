@@ -255,7 +255,8 @@
   "mapSection": {
     "title": "Ubicación en el mapa",
     "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, España",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "mapLink": "https://maps.app.goo.gl/6CeTgviM5Pi9HLreA"
   },
   "footer": {
     "brandName": "El Oso y el Madroño",

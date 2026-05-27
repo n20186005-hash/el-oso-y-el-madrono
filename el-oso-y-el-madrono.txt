@@ -13,8 +13,23 @@ Prta del Sol, 1, Centro, 28013 Madrid, Spain
 C78W+RW Madrid, Spain
 
 https://maps.app.goo.gl/6CeTgviM5Pi9HLreA
+买域名推荐
 
 
+我们的网站是
+elosoyelmadrono.com
+检查一遍是否有错误
+
+
+国家 / 地区：Spain
+地址行 1：Puerta del Sol, 1
+地址行 2：Centro
+城市：Madrid
+省 / 自治区 / 直辖市：Comunidad de Madrid
+邮政编码：28013
+
+
+elosoyelmadrono.com
 
 首屏背景图要引用以下
 C:\Users\Administrator\Downloads\西班牙\el-oso-y-el-madrono\public\gallery
@@ -65,12 +80,6 @@ https://monumentamadrid.es/AM_Portada/AM_Portada_WEB/index2.htm
 
 
 生成一个文件忽略不需要上传的文件
-
-
-
-
-
-
 
 国家级：西班牙国家旅游局（Turespaña）
 

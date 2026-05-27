@@ -2,6 +2,7 @@ import { useTranslations } from 'next-intl';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const tMap = useTranslations('mapSection');
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -42,7 +43,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('type')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/6CeTgviM5Pi9HLreA"
+              href={tMap('mapLink')}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"

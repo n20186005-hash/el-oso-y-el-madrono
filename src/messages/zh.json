@@ -16,7 +16,7 @@
     "rating": "4.6",
     "reviewCount": "8,361 条评价",
     "type": "雕塑",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在 Google Maps 查看"
   },
   "intro": {
     "title": "探索埃尔奥索与马德罗尼奥",
@@ -205,7 +205,7 @@
       "宁静清晨",
       "城市景观"
     ],
-    "viewAll": "在Google地图上查看位置",
+    "viewAll": "在 Google Maps 查看",
     "showAll": "显示完整照片",
     "showLess": "收起照片"
   },
@@ -255,7 +255,8 @@
   "mapSection": {
     "title": "地图位置",
     "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在 Google Maps 查看",
+    "mapLink": "https://maps.app.goo.gl/6CeTgviM5Pi9HLreA"
   },
   "footer": {
     "brandName": "埃尔奥索与马德罗尼奥",

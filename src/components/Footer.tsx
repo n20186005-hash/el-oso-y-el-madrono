@@ -6,31 +6,11 @@ export default function Footer() {
   const prefix = locale === 'en' ? '' : `/${locale}`;
 
   const officialLinks = [
-    {
-      key: 'spainTourism',
-      url: 'https://www.spain.info/',
-      labels: { zh: '西班牙国家旅游局', en: 'Spain.info Official Tourism', es: 'Turismo de España' }
-    },
-    {
-      key: 'madridRegion',
-      url: 'https://www.comunidad.madrid/',
-      labels: { zh: '马德里大区官方旅游局', en: 'Comunidad de Madrid', es: 'Comunidad de Madrid' }
-    },
-    {
-      key: 'madridCity',
-      url: 'https://www.esmadrid.com/',
-      labels: { zh: '马德里市政府官方旅游局', en: 'Ayuntamiento de Madrid', es: 'Ayuntamiento de Madrid' }
-    },
-    {
-      key: 'madridMemory',
-      url: 'https://www.memoriademadrid.es/',
-      labels: { zh: '马德里记忆数字档案库', en: 'Memoria de Madrid', es: 'Memoria de Madrid' }
-    },
-    {
-      key: 'madridHeritage',
-      url: 'https://monumentamadrid.es/AM_Portada/AM_Portada_WEB/index2.htm',
-      labels: { zh: '马德里市议会城市景观与文化遗产总局', en: 'Monumenta Madrid', es: 'Monumenta Madrid' }
-    }
+    { key: 'spainTourism', url: 'https://www.spain.info/' },
+    { key: 'madridRegion', url: 'https://www.comunidad.madrid/' },
+    { key: 'madridCity', url: 'https://www.esmadrid.com/' },
+    { key: 'madridMemory', url: 'https://www.memoriademadrid.es/' },
+    { key: 'madridHeritage', url: 'https://monumentamadrid.es/AM_Portada/AM_Portada_WEB/index2.htm' }
   ];
 
   return (
@@ -62,7 +42,7 @@ export default function Footer() {
                   className="hover:underline text-sm"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {link.labels[locale as keyof typeof link.labels] || link.labels.en}
+                  {t(`officialLinks.${link.key}`)}
                 </a>
               ))}
             </div>

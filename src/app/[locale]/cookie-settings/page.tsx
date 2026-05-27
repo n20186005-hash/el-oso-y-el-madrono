@@ -7,17 +7,21 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://willowcreekhoodoos.com';
-  const zhUrl = `${baseUrl}/cookie-settings`;
+  const { locale } = await params;
+  const baseUrl = 'https://elosoyelmadrono.com';
+  const zhUrl = `${baseUrl}/zh/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
+  const esUrl = `${baseUrl}/es/cookie-settings`;
+  const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : esUrl;
 
   return {
     alternates: {
-      canonical: zhUrl,
+      canonical: selfUrl,
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'x-default': zhUrl,
+        'es': esUrl,
+        'x-default': enUrl,
       },
     },
   };
