@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "title": "埃尔奥索与马德罗尼奥 (El Oso y el Madroño)",
+    "description": "马德里埃尔奥索与马德罗尼奥完整旅游指南。了解这座标志性雕塑的历史、位置和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "埃尔奥索与马德罗尼奥",
+    "subtitle": "雕塑 · 马德里",
+    "rating": "4.6",
+    "reviewCount": "8,361 条评价",
+    "type": "雕塑",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "intro": {
+    "title": "探索埃尔奥索与马德罗尼奥",
+    "description": "埃尔奥索与马德罗尼奥（El Oso y el Madroño）是马德里最具标志性的纪念碑之一。位于著名的太阳门广场，这个象征代表着马德里的城徽，是当地人和游客必去的聚会点。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "纪念碑全天24小时开放，免费参观。",
+        "这是马德里最著名的聚会点。",
+        "非常适合在市中心拍摄纪念照片。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "城市象征",
+        "位于太阳门广场",
+        "24小时开放",
+        "免费入场"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于埃尔奥索与马德罗尼奥",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "埃尔奥索与马德罗尼奥是由艺术家安东尼奥·纳瓦罗·圣塔费（Antonio Navarro Santafé）于1967年创作的青铜雕塑。它代表着马德里的城徽，展示了一只熊正在采摘草莓树（madroño）果实的场景。目前的雕像是第三版，于2009年安装在现址。"
+      },
+      {
+        "id": "symbolism",
+        "title": "象征意义",
+        "content": "熊和草莓树是马德里城徽的核心元素。熊代表着原始城市周围森林中丰富的野生动物，而草莓树（madroño）是马德里自治区常见的物种。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置",
+        "content": "雕塑位于太阳门广场，具体在警察总局大楼旁边。这是马德里最受欢迎的聚会点之一，也是游客必到之处。"
+      },
+      {
+        "id": "cultural",
+        "title": "文化意义",
+        "content": "埃尔奥索与马德罗尼奥不仅仅是一座雕塑，它是马德里居民身份认同的象征。它出现在该市的官方城徽中，并在各种与马德里相关的文学和文化作品中被提及。"
+      },
+      {
+        "id": "visiting",
+        "title": "参观信息",
+        "content": "雕塑可以随时参观，因为它位于户外公共空间。太阳门广场全天24小时开放，并且公共交通连接良好。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "El Oso y el Madroño",
+    "type": "景点类型",
+    "typeValue": "纪念碑雕塑",
+    "country": "国家",
+    "countryValue": "西班牙",
+    "city": "城市",
+    "cityValue": "马德里",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.6 (8,361)",
+    "address": "地址",
+    "addressValue": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "C78W+RW Madrid, Spain"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "景区开放",
+    "parkTime": "全天开放（公共空间）",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，适合散步",
+    "bestTimeSummer": "夏季：太阳门广场夜晚宜人",
+    "bestTimeAutumn": "秋季：探索城市的完美天气",
+    "bestTimeWinter": "冬季：太阳门广场节日氛围浓厚",
+    "tip": "纪念碑可以在一天或夜晚的任何时间参观。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "纪念碑参观",
+    "parkPrice": "免费入场",
+    "parking": "停车",
+    "parkingPrice": "附近有付费停车场",
+    "guided": "导游服务",
+    "guidedPrice": "自助游览（公共空间）"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从马德里市中心",
+    "fromCenterDesc": "纪念碑位于马德里市中心的太阳门广场。",
+    "fromStation": "从火车站",
+    "fromStationDesc": "可乘坐地铁从主要火车站到达。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "从马德里-巴拉哈斯机场，乘坐地铁或出租车前往市中心。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "地铁（Sol站）、公交和通勤列车连接便利。",
+    "walking": "步行",
+    "walkingDesc": "从马德里市中心多个地点步行即可到达。",
+    "driving": "自驾",
+    "drivingDesc": "可驾车到达，但由于交通限制，建议乘坐公共交通。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "漫步马德里历史中心。",
+    "steps": [
+      "从太阳门广场开始，面对埃尔奥索与马德罗尼奥",
+      "欣赏雕塑并拍摄纪念照片",
+      "探索太阳门广场及其周边",
+      "步行至马约尔广场（步行5分钟）",
+      "享受历史建筑和马德里氛围"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "埃尔奥索与马德罗尼奥",
+        "description": "主雕塑为拍摄马德里标志性照片提供了完美机会。",
+        "location": "太阳门广场",
+        "image": "/gallery/el-oso-y-el-madrono (1).jpg"
+      },
+      {
+        "title": "太阳门广场",
+        "description": "著名广场为城市建筑和建筑摄影提供了绝佳背景。",
+        "location": "马德里市中心",
+        "image": "/gallery/el-oso-y-el-madrono (2).jpg"
+      },
+      {
+        "title": "太阳门广场时钟",
+        "description": "马德里人庆祝新年的著名时钟，非常适合旅行照片。",
+        "location": "太阳门广场",
+        "image": "/gallery/el-oso-y-el-madrono (3).jpg"
+      },
+      {
+        "title": "市中心景观",
+        "description": "太阳门广场周围的街道提供令人惊叹的城市景观，非常适合Instagram。",
+        "location": "太阳门周边",
+        "image": "/gallery/el-oso-y-el-madrono (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "周边住宿指南",
+    "hotels": [
+      {
+        "name": "马德里市中心（Sol）",
+        "desc": "太阳门广场区域可轻松前往埃尔奥索与马德罗尼奥，附近有众多酒店、餐厅和商店。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "文学区（Barrio de las Letras）",
+        "desc": "一个历史悠久且风景如画的社区，靠近太阳门广场，适合寻求文化和真实氛围的人。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "格兰大道（Gran Vía）",
+        "desc": "位于Sol附近，该区域提供多样化的住宿选择，从经济型酒店到豪华酒店。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "萨拉曼卡区（Barrio de Salamanca）",
+        "desc": "首都的心脏地带，靠近主要旅游景点，步行即可到达埃尔奥索与马德罗尼奥。",
+        "price": "推荐区域"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "埃尔奥索与马德罗尼奥美景",
+    "captions": [
+      "埃尔奥索与马德罗尼奥",
+      "太阳门广场",
+      "正面视图",
+      "雕塑细节",
+      "草莓树",
+      "熊",
+      "马德里城徽",
+      "雕像附近",
+      "夜景",
+      "游客",
+      "周围建筑",
+      "太阳门日落",
+      "宁静清晨",
+      "城市景观"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "马德里的标志性象征。每次我参观太阳门广场，都要和熊与草莓树合影。这是一个经典。"
+      },
+      {
+        "name": "Lucía R.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "不可能参观马德里而不经过埃尔奥索与马德罗尼奥。这是卓越的聚会点，也是必拍的照片。"
+      },
+      {
+        "name": "Javier L.",
+        "rating": 4,
+        "date": "2026-05-02",
+        "text": "一个非常有代表性的纪念碑。保存完好，在太阳门广场易于到达。非常值得推荐。"
+      },
+      {
+        "name": "Elena G.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "作为马德里本地人，埃尔奥索与马德罗尼奥是我身份的一部分。我总是在雕像旁边和朋友见面，这是我们的参考点。"
+      },
+      {
+        "name": "Miguel A.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "一个充满历史和象征意义的地方。雕塑很美，完美地代表了马德里的精神。"
+      },
+      {
+        "name": "Sofía P.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "参观马德里而不看埃尔奥索与马德罗尼奥就像没来过一样。这是所有马德里人和游客都喜爱的象征。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "埃尔奥索与马德罗尼奥",
+    "brandSubtitle": "雕塑 · 马德里",
+    "rights": "© 2026 埃尔奥索与马德罗尼奥独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "spainTourism": "西班牙国家旅游局",
+      "madridRegion": "马德里大区官方旅游局",
+      "madridCity": "马德里市政府官方旅游局",
+      "madridMemory": "马德里记忆数字档案库",
+      "madridHeritage": "马德里市议会城市景观与文化遗产总局"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的身份特征。"
+      },
+      {
+        "title": "Cookie 的使用",
+        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+      },
+      {
+        "title": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "网站内容与使用",
+        "content": "本网站提供有关埃尔奥索与马德罗尼奥的旅游、交通及历史信息。所有内容仅供参考，景点的实际开放时间和票务信息可能随时更改，请以官方发布为准。"
+      },
+      {
+        "title": "知识产权说明",
+        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+      },
+      {
+        "title": "免责声明",
+        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "必要的Cookie",
+      "description": "基本网站功能所需，无法关闭。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访客行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨网站跟踪和个性化广告展示。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于埃尔奥索与马德罗尼奥",
+    "text": "埃尔奥索与马德罗尼奥是位于西班牙马德里太阳门广场的标志性纪念碑。它是该市官方徽章的展示，是由马德里市议会管理和维护的标志性聚会点。"
+  }
+}

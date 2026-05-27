@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "title": "El Oso y el Madroño",
+    "description": "Complete guide to El Oso y el Madroño in Madrid. Learn about this iconic sculpture, its history, location, and visiting information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "El Oso y el Madroño",
+    "subtitle": "Sculpture · Madrid",
+    "rating": "4.6",
+    "reviewCount": "8,361 reviews",
+    "type": "Sculpture",
+    "openMaps": "View on Google Maps"
+  },
+  "intro": {
+    "title": "Discover El Oso y el Madroño",
+    "description": "El Oso y el Madroño is one of Madrid's most iconic monuments. Located in the famous Puerta del Sol, this symbol represents the city's coat of arms and is a must-visit meeting point for locals and tourists alike.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The monument is accessible 24 hours a day and is free.",
+        "It is the most famous meeting point in Madrid.",
+        "Perfect for a memorable photo in the city center."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Symbol of the city",
+        "Located in Puerta del Sol",
+        "24-hour access",
+        "Free admission"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About El Oso y el Madroño",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "El Oso y el Madroño is a bronze sculpture created by artist Antonio Navarro Santafé in 1967. It represents the coat of arms of Madrid, showing a bear feeding on the fruits of a strawberry tree (madroño). The current statue is the third version, installed in its current location in 2009."
+      },
+      {
+        "id": "symbolism",
+        "title": "Symbolism",
+        "content": "The bear and the strawberry tree are the central elements of Madrid's coat of arms. The bear represents the abundance of wildlife in the forests that surrounded the original city, while the strawberry tree (madroño) is a common species in the Community of Madrid region."
+      },
+      {
+        "id": "location",
+        "title": "Location",
+        "content": "The sculpture is situated in Puerta del Sol, specifically next to the General Directorate of Police building. It is one of the most popular meeting points in Madrid and a must-stop for tourists."
+      },
+      {
+        "id": "cultural",
+        "title": "Cultural Significance",
+        "content": "El Oso y el Madroño is much more than a sculpture; it is a symbol of identity for Madrid's residents. It appears on the official coat of arms of the city and is mentioned in various literary and cultural works related to Madrid."
+      },
+      {
+        "id": "visiting",
+        "title": "Visiting Information",
+        "content": "The sculpture can be visited at any time, as it is located in an outdoor public space. Puerta del Sol is accessible 24 hours a day and is well connected by public transportation."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "El Oso y el Madroño",
+    "type": "Attraction Type",
+    "typeValue": "Monumental Sculpture",
+    "country": "Country",
+    "countryValue": "Spain",
+    "city": "City",
+    "cityValue": "Madrid",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.6 (8,361)",
+    "address": "Address",
+    "addressValue": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "C78W+RW Madrid, Spain"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Site Access",
+    "parkTime": "Open 24 hours (public space)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant temperatures, ideal for walking",
+    "bestTimeSummer": "Summer: Pleasant evenings at Puerta del Sol",
+    "bestTimeAutumn": "Autumn: Perfect weather for exploring the city",
+    "bestTimeWinter": "Winter: Festive Christmas atmosphere at Puerta del Sol",
+    "tip": "The monument is accessible at any time of day or night."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Monument Visit",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "Paid parking available nearby",
+    "guided": "Guided Tours",
+    "guidedPrice": "Self-guided (public space)"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Madrid City Center",
+    "fromCenterDesc": "The monument is located in Puerta del Sol, in the heart of Madrid.",
+    "fromStation": "From Train Station",
+    "fromStationDesc": "Accessible by metro from major train stations.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "From Madrid-Barajas Airport, take the metro or a taxi to the center.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Excellent connections via metro (Sol), bus, and commuter trains.",
+    "walking": "Walking",
+    "walkingDesc": "Accessible on foot from multiple points in central Madrid.",
+    "driving": "Driving",
+    "drivingDesc": "Accessible by car, though public transport is recommended due to traffic restrictions."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "A walk through the historic center of Madrid.",
+    "steps": [
+      "Start at Puerta del Sol, in front of El Oso y el Madroño",
+      "Admire the sculpture and take a memorable photo",
+      "Explore Puerta del Sol and its surroundings",
+      "Walk to Plaza Mayor (5 minutes on foot)",
+      "Enjoy the historic architecture and Madrid atmosphere"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "El Oso y el Madroño",
+        "description": "The main sculpture offers the perfect opportunity for an iconic photo with Madrid's symbol.",
+        "location": "Puerta del Sol",
+        "image": "/gallery/el-oso-y-el-madrono (1).jpg"
+      },
+      {
+        "title": "Puerta del Sol",
+        "description": "The famous square offers an excellent backdrop for urban and architectural photography.",
+        "location": "Madrid City Center",
+        "image": "/gallery/el-oso-y-el-madrono (2).jpg"
+      },
+      {
+        "title": "Puerta del Sol Clock",
+        "description": "The famous clock where madrileños celebrate New Year, perfect for travel photos.",
+        "location": "Puerta del Sol",
+        "image": "/gallery/el-oso-y-el-madrono (3).jpg"
+      },
+      {
+        "title": "City Center Views",
+        "description": "The streets around Puerta del Sol offer stunning urban views ideal for Instagram.",
+        "location": "Sol Surroundings",
+        "image": "/gallery/el-oso-y-el-madrono (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation Guide",
+    "hotels": [
+      {
+        "name": "Madrid City Center (Sol)",
+        "desc": "The Puerta del Sol area offers easy access to El Oso y el Madroño, with numerous hotels, restaurants, and shops nearby.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Barrio de las Letras",
+        "desc": "A historic and picturesque neighborhood, close to Puerta del Sol, ideal for those seeking culture and authentic atmosphere.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Gran Vía",
+        "desc": "Located close to Sol, this area offers diverse accommodation options, from budget hotels to luxury establishments.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Barrio de Salamanca",
+        "desc": "The heart of the capital, close to main tourist attractions and within walkable distance to El Oso y el Madroño.",
+        "price": "Recommended"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Views of El Oso y el Madroño",
+    "captions": [
+      "El Oso y el Madroño",
+      "Puerta del Sol",
+      "Front view",
+      "Sculpture detail",
+      "The strawberry tree",
+      "The bear",
+      "Coat of arms of Madrid",
+      "Near the statue",
+      "Night view",
+      "Tourists",
+      "Surrounding architecture",
+      "Sunset at Sol",
+      "Quiet morning",
+      "City views"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "An iconic symbol of Madrid. Whenever I visit Puerta del Sol, I have to take a photo with the bear and the strawberry tree. It's a classic."
+      },
+      {
+        "name": "Lucía R.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "Impossible to visit Madrid and not pass by El Oso y el Madroño. It's the meeting point par excellence and a mandatory photo."
+      },
+      {
+        "name": "Javier L.",
+        "rating": 4,
+        "date": "2026-05-02",
+        "text": "A very representative monument. It is well preserved and easily accessible in Puerta del Sol. Highly recommendable."
+      },
+      {
+        "name": "Elena G.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "As a madrileña, El Oso y el Madroño is part of my identity. I always meet friends next to the statue, it's our reference point."
+      },
+      {
+        "name": "Miguel A.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "A place full of history and symbolism. The sculpture is beautiful and perfectly represents the spirit of Madrid."
+      },
+      {
+        "name": "Sofía P.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Visiting Madrid without seeing El Oso y el Madroño is like not having gone. It's a symbol beloved by all madrileños and visitors."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "El Oso y el Madroño",
+    "brandSubtitle": "Sculpture · Madrid",
+    "rights": "© 2026 El Oso y el Madroño Independent Tourism Research Association · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "spainTourism": "Spain.info Official Tourism",
+      "madridRegion": "Comunidad de Madrid",
+      "madridCity": "Ayuntamiento de Madrid",
+      "madridMemory": "Memoria de Madrid",
+      "madridHeritage": "Monumenta Madrid"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about El Oso y el Madroño. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, anyone may not use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About El Oso y el Madroño",
+    "text": "El Oso y el Madroño is an iconic monument located in Puerta del Sol in Madrid, Spain. It is a representation of the official insignia of the city and an iconic meeting point managed and maintained by the Madrid City Council."
+  }
+}

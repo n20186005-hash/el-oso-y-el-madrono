@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "title": "El Oso y el Madroño",
+    "description": "Guía completa de El Oso y el Madroño en Madrid. Conoce este icono de la ciudad, su historia y cómo visitarlo."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "El Oso y el Madroño",
+    "subtitle": "Escultura · Madrid",
+    "rating": "4.6",
+    "reviewCount": "8,361 reseñas",
+    "type": "Escultura",
+    "openMaps": "Ver en Google Maps"
+  },
+  "intro": {
+    "title": "Descubre El Oso y el Madroño",
+    "description": "El Oso y el Madroño es uno de los monumentos más emblemáticos de Madrid. Situado en la famosa Puerta del Sol, este icono representa el escudo de la ciudad y es un punto de encuentro obligado para locales y turistas.",
+    "visitGuide": {
+      "title": "Consejos de visita",
+      "items": [
+        "El monumento es accesible las 24 horas del día y es gratuito.",
+        "Es el punto de encuentro más famoso de Madrid.",
+        "Perfecto para una foto recordatoria en el centro de la ciudad."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Lo más destacado",
+      "items": [
+        "Símbolo de la ciudad",
+        "Ubicado en Puerta del Sol",
+        "Acceso las 24 horas",
+        "Gratuito"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre El Oso y el Madroño",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historia",
+        "content": "El Oso y el Madroño es una escultura de bronce creada por el artista Antonio Navarro Santafé en 1967. Representa el escudo de Madrid, que muestra un oso alimentándose de los frutos de un madroño. La estatua actual es la tercera versión, instalada en su ubicación actual en 2009."
+      },
+      {
+        "id": "symbolism",
+        "title": "Simbolismo",
+        "content": "El oso y el madroño son los elementos centrales del escudo de Madrid. El oso representa la abundancia de vida silvestre en los bosques que rodeaban la ciudad original, mientras que el madroño (árbol de fresa) es una especie común en la región de la Comunidad de Madrid."
+      },
+      {
+        "id": "location",
+        "title": "Ubicación",
+        "content": "La escultura está situada en la Puerta del Sol, específicamente junto al edificio de la Dirección General de la Policía. Es uno de los puntos de encuentro más populares de Madrid y una parada obligatoria para los turistas."
+      },
+      {
+        "id": "cultural",
+        "title": "Importancia cultural",
+        "content": "El Oso y el Madroño es mucho más que una escultura; es un símbolo de identidad para los madrileños. Aparece en el escudo oficial de la ciudad y es mencionado en diversas obras literarias y culturales relacionadas con Madrid."
+      },
+      {
+        "id": "visiting",
+        "title": "Cómo visitar",
+        "content": "La escultura puede visitarse en cualquier momento, ya que se encuentra en un espacio público al aire libre. La Puerta del Sol es accesible las 24 horas del día y está bien conectada por transporte público."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "El Oso y el Madroño",
+    "type": "Tipo de atracción",
+    "typeValue": "Escultura monumental",
+    "country": "País",
+    "countryValue": "España",
+    "city": "Ciudad",
+    "cityValue": "Madrid",
+    "googleRating": "Valoración Google",
+    "googleRatingValue": "4.6 (8,361)",
+    "address": "Dirección",
+    "addressValue": "Puerta del Sol, 1, Centro, 28013 Madrid, España",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "C78W+RW Madrid, España"
+  },
+  "hours": {
+    "title": "Horario de visita",
+    "park": "Acceso al sitio",
+    "parkTime": "Abierto las 24 horas (espacio público)",
+    "bestTime": "Mejor época para visitar",
+    "bestTimeSpring": "Primavera: Temperaturas agradables, ideal para caminar",
+    "bestTimeSummer": "Verano: Noches agradables en la Puerta del Sol",
+    "bestTimeAutumn": "Otoño: Clima perfecto para explorar la ciudad",
+    "bestTimeWinter": "Invierno: Ambiente festivo navideño en la Puerta del Sol",
+    "tip": "El monumento es accesible en cualquier momento del día o de la noche."
+  },
+  "tickets": {
+    "title": "Información de entrada",
+    "park": "Visita al monumento",
+    "parkPrice": "Entrada gratuita",
+    "parking": "Aparcamiento",
+    "parkingPrice": "Aparcamientos de pago disponibles en los alrededores",
+    "guided": "Visitas guiadas",
+    "guidedPrice": "Autoguiado (espacio público)"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "fromCenter": "Desde el centro de Madrid",
+    "fromCenterDesc": "El monumento está situado en la Puerta del Sol, en el corazón de Madrid.",
+    "fromStation": "Desde la estación de tren",
+    "fromStationDesc": "Accesible en metro desde las principales estaciones de tren.",
+    "fromAirport": "Desde el aeropuerto",
+    "fromAirportDesc": "Desde el Aeropuerto de Madrid-Barajas, tome el metro o un taxi al centro.",
+    "publicTransport": "Transporte público",
+    "publicTransportDesc": "Excelentes conexiones en metro (Sol), autobús y cercanías.",
+    "walking": "Caminando",
+    "walkingDesc": "Accesible a pie desde múltiples puntos del centro de Madrid.",
+    "driving": "En coche",
+    "drivingDesc": "Accesible en coche, aunque se recomienda el transporte público debido a las restricciones de tráfico."
+  },
+  "route": {
+    "title": "Ruta recomendada",
+    "overview": "Un paseo por el centro histórico de Madrid.",
+    "steps": [
+      "Comience en la Puerta del Sol, frente al Oso y el Madroño",
+      "Admire la estatua y haga una foto recordatoria",
+      "Explore la Puerta del Sol y sus alrededores",
+      "Camine hacia la Plaza Mayor (a 5 minutos a pie)",
+      "Disfrute de la arquitectura histórica y la atmósfera madrileña"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores lugares para fotos",
+    "spots": [
+      {
+        "title": "El Oso y el Madroño",
+        "description": "La escultura principal ofrece la oportunidad perfecta para una foto icónica con el símbolo de Madrid.",
+        "location": "Puerta del Sol",
+        "image": "/gallery/el-oso-y-el-madrono (1).jpg"
+      },
+      {
+        "title": "Puerta del Sol",
+        "description": "La famosa plaza ofrece un telón de fondo excelente para fotos urbanas y arquitectónicas.",
+        "location": "Centro de Madrid",
+        "image": "/gallery/el-oso-y-el-madrono (2).jpg"
+      },
+      {
+        "title": "El Reloj de la Puerta del Sol",
+        "description": "El famoso reloj donde los madrileños celebran el Año Nuevo, perfecto para fotos de viaje.",
+        "location": "Puerta del Sol",
+        "image": "/gallery/el-oso-y-el-madrono (3).jpg"
+      },
+      {
+        "title": "Vistas del centro",
+        "description": "Las calles alrededor de la Puerta del Sol ofrecen vistas urbanas impresionantes ideales para Instagram.",
+        "location": "Alrededores de Sol",
+        "image": "/gallery/el-oso-y-el-madrono (4).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Guía de alojamiento",
+    "hotels": [
+      {
+        "name": "Centro de Madrid (Sol)",
+        "desc": "La zona de la Puerta del Sol ofrece acceso fácil a El Oso y el Madroño, con numerosos hoteles, restaurantes y tiendas cercanas.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Barrio de las Letras",
+        "desc": "Un barrio histórico y pintoresco, cerca de la Puerta del Sol, ideal para quienes buscan cultura y ambiente auténtico.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Gran Vía",
+        "desc": "Situada cerca de Sol, esta área ofrece opciones de alojamiento diversas, desde hoteles económicos hasta establecimientos de lujo.",
+        "price": "Recomendado"
+      },
+      {
+        "name": "Barrio de Salamanca",
+        "desc": "El corazón de la capital, cerca de las principales atracciones turísticas y a una distancia accesible a pie de El Oso y el Madroño.",
+        "price": "Recomendado"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de fotos",
+    "subtitle": "Vistas de El Oso y el Madroño",
+    "captions": [
+      "El Oso y el Madroño",
+      "Puerta del Sol",
+      "Vista frontal",
+      "Detalle de la escultura",
+      "El madroño",
+      "El oso",
+      "Escudo de Madrid",
+      "Cerca de la estatua",
+      "Vista nocturna",
+      "Turistas",
+      "Arquitectura circundante",
+      "Atardecer en Sol",
+      "Mañana tranquila",
+      "Vistas de la ciudad"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver todas las fotos",
+    "showLess": "Ver menos"
+  },
+  "reviews": {
+    "title": "Reseñas de visitantes",
+    "declaration": "Las reseñas de los visitantes se pueden ver a través de Google Maps.",
+    "moreReviews": "Ver más reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "Un símbolo icónico de Madrid. Siempre que visito la Puerta del Sol, tengo que hacer una foto con el oso y el madroño. Es un clásico."
+      },
+      {
+        "name": "Lucía R.",
+        "rating": 5,
+        "date": "2026-03-20",
+        "text": "Imposible visitar Madrid y no pasar por el Oso y el Madroño. Es el punto de encuentro por excelencia y una foto obligatoria."
+      },
+      {
+        "name": "Javier L.",
+        "rating": 4,
+        "date": "2026-05-02",
+        "text": "Un monumento muy representativo. Está bien conservado y es fácilmente accesible en la Puerta del Sol. Muy recomendable."
+      },
+      {
+        "name": "Elena G.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "Como madrileña, el Oso y el Madroño es parte de mi identidad. Siempre quedo con amigos junto a la estatua, es nuestro punto de referencia."
+      },
+      {
+        "name": "Miguel A.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Un lugar lleno de historia y simbolismo. La escultura es preciosa y representa perfectamente el espíritu de Madrid."
+      },
+      {
+        "name": "Sofía P.",
+        "rating": 5,
+        "date": "2025-09-05",
+        "text": "Visitar Madrid sin ver el Oso y el Madroño es como no haber ido. Es un símbolo querido por todos los madrileños y visitantes."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el mapa",
+    "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, España",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "brandName": "El Oso y el Madroño",
+    "brandSubtitle": "Escultura · Madrid",
+    "rights": "© 2026 Asociación Independiente de Investigación Turística de El Oso y el Madroño · Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos e información relacionada",
+    "officialLinks": {
+      "spainTourism": "Turismo de España",
+      "madridRegion": "Comunidad de Madrid",
+      "madridCity": "Ayuntamiento de Madrid",
+      "madridMemory": "Memoria de Madrid",
+      "madridHeritage": "Monumenta Madrid"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local u otras agencias oficiales."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Recopilación de información",
+        "content": "Cuando visita nuestro sitio web, podemos recopilar automáticamente información básica sobre su dispositivo, navegador y comportamiento de navegación para brindarle una mejor experiencia de usuario. Esta información no contiene su identidad."
+      },
+      {
+        "title": "Uso de cookies",
+        "content": "Utilizamos cookies para analizar el tráfico del sitio web y optimizar el contenido de las páginas. Puede gestionar sus preferencias en cualquier momento a través de la opción de Configuración de cookies en la parte inferior de nuestro sitio."
+      },
+      {
+        "title": "Seguridad y protección de datos",
+        "content": "Nos comprometemos a proteger la seguridad de sus datos de privacidad y no venderemos, alquilaremos ni comerciaremos con sus datos de navegación a ninguna organización comercial de terceros."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de servicio",
+    "lastUpdated": "Última actualización: Mayo 2026",
+    "sections": [
+      {
+        "title": "Contenido y uso del sitio web",
+        "content": "Este sitio web proporciona información turística, de transporte e histórica sobre El Oso y el Madroño. Todo el contenido es solo para referencia. El horario real de apertura y la información de entradas pueden cambiar en cualquier momento, consulte los anuncios oficiales."
+      },
+      {
+        "title": "Propiedad intelectual",
+        "content": "El texto, las imágenes y los diseños de diseño en este sitio web están protegidos por derechos de autor. Sin permiso explícito por escrito, nadie puede usar el contenido del sitio web con fines de lucro comercial."
+      },
+      {
+        "title": "Descargo de responsabilidad",
+        "content": "Hacemos todo lo posible para garantizar la precisión y actualidad de la información, pero no asumimos responsabilidad legal por cualquier retraso de viaje o pérdidas causadas directa o indirectamente por el uso de la información proporcionada en este sitio web."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Gestione sus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Necesarias para la funcionalidad básica del sitio web y no se pueden desactivar.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Análisis",
+      "description": "Ayúdanos a entender el comportamiento de los visitantes y mejorar el sitio web."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizadas para el seguimiento entre sitios y la entrega de anuncios personalizados."
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "officialManagement": {
+    "title": "Sobre El Oso y el Madroño",
+    "text": "El Oso y el Madroño es un monumento emblemático situado en la Puerta del Sol de Madrid, España. Es una representación de la insignia oficial de la ciudad y un punto de encuentro icónico gestionado y mantenido por el Ayuntamiento de Madrid."
+  }
+}
