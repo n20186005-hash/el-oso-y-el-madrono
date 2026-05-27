@@ -1,0 +1,113 @@
+你正在用（Next.js开发）
+为一个新景点【 El Oso y el Madroño 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+el-oso-y-el-madrono
+西班牙
+马德里自治区	El Oso y el Madroño
+
+El Oso y el Madroño
+4.6(8,361)
+雕塑
+Prta del Sol, 1, Centro, 28013 Madrid, Spain
+C78W+RW Madrid, Spain
+
+https://maps.app.goo.gl/6CeTgviM5Pi9HLreA
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\西班牙\el-oso-y-el-madrono\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+
+西班牙国家旅游局
+https://www.spain.info/
+马德里大区官方旅游局
+https://www.comunidad.madrid/
+马德里市政府官方旅游局
+https://www.esmadrid.com/
+“马德里记忆”数字档案库
+https://www.memoriademadrid.es/
+马德里市议会城市景观与文化遗产总局
+https://monumentamadrid.es/AM_Portada/AM_Portada_WEB/index2.htm
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/6CeTgviM5Pi9HLreA
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/6CeTgviM5Pi9HLreA
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/6CeTgviM5Pi9HLreA
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/6CeTgviM5Pi9HLreA
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/6CeTgviM5Pi9HLreA
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增西班牙语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+国家级：西班牙国家旅游局（Turespaña）
+
+主管政府部门：西班牙工业与旅游部 (Ministerio de Industria y Turismo)
+
+官方网站：spain.info
+
+数据价值：提供西班牙国家层面的宏观出入境旅游指引，并将该雕塑作为马德里乃至整个西班牙国家级城市文化符号进行跨国界宣发与背书。
+
+2. 大区级：马德里大区官方旅游局（Turismo de la Comunidad de Madrid）
+
+主管政府部门：马德里大区政府文化、旅游与体育部 (Consejería de Cultura, Turismo y Deporte)
+
+官方网站：comunidad.madrid/turismo
+
+数据价值：依托大区政府专属政务顶级域名，统筹马德里大区的文旅政策导向，提供包含太阳门广场（Puerta del Sol）在内的大区级交通枢纽（如周边 Cercanías 小火车网络）与安保调度信息。
+
+3. 市级：马德里市政府官方旅游门户（Madrid Destino）
+
+主管政府部门：马德里市议会文化、旅游与体育区域 (Área de Gobierno de Cultura, Turismo y Deporte, Ayuntamiento de Madrid)
+
+官方网站：esmadrid.com
+
+数据价值：直击雕塑所在的具体市政空间。提供太阳门广场全步行街化改造后的最新市政服务设施状态、跨年庆典等本地重大公共活动日历，以及精确的游客导览指引。
+
+4. 专项文化与历史记忆数据库：“马德里记忆”数字档案库（Memoria de Madrid）
+
+主管政府部门：马德里市议会档案馆、图书馆与博物馆网络 (Red de Bibliotecas, Archivos y Museos del Ayuntamiento de Madrid)
+
+官方网站：memoriademadrid.es
+
+数据价值：专项收录马德里城市历史档案。该系统归档了这座雕塑在1967年由雕塑家 Antonio Navarro Santafé 创作及首次安置的历史影像、官方公报记录，以及后续几次在太阳门广场内微调位置的政务迁移文件，是挖掘该地标深层历史脉络的权威源。
+
+5. 地方级专业纪念碑与古迹数据库：马德里市纪念碑与古迹建筑数字档案库（MonumentaMadrid）
+
+主管政府部门：马德里市议会城市景观与文化遗产总局 (Dirección General de Intervención en el Paisaje Urbano y el Patrimonio Cultural)
+
+官方网站：monumentamadrid.es
+
+数据价值：作为最底层、最细颗粒度的官方名录，这里是马德里最权威的公共空间艺术品与古迹数据库。专项收录了“熊与石楠树”的确切材质参数（青铜雕塑及花岗岩底座）、精确的三维尺寸与重量、历次市政修复与清洗维护的工程技术档案，以及唯一的官方城市雕塑遗产资产编码。
