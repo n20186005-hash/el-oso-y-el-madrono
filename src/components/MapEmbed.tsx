@@ -20,24 +20,20 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://maps.google.com/maps?q=Puerta+del+Sol+1+Madrid+Spain&output=embed"
+            src={t('embedSrc')}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - El Oso y el Madroño"
           />
         </div>
 
         {/* Open in Google Maps */}
-        <div className="mt-6 flex justify-center">
+        <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
             href={t('mapLink')}
             target="_blank"
@@ -56,6 +52,26 @@ export default function MapEmbed() {
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
           </a>
+        </div>
+
+        {/* Official tourism link */}
+        <div className="mt-10 p-5 sm:p-6 rounded-xl text-center" style={{ background: 'var(--bg-tertiary)', border: '1px dashed var(--border-color)' }}>
+          <p className="text-sm font-medium mb-2" style={{ color: 'var(--text-primary)' }}>
+            {t('officialTourismTitle')}
+          </p>
+          <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {t('officialTourismPrefix')}
+            <a
+              href={t('officialTourismUrl')}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline font-medium"
+              style={{ color: 'var(--accent)' }}
+            >
+              {t('officialTourismLinkText')}
+            </a>
+            {t('officialTourismSuffix')}
+          </p>
         </div>
       </div>
     </section>

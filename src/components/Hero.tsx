@@ -10,8 +10,10 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/el-oso-y-el-madrono (1).jpg"
-          alt="El Oso y el Madroño"
+          alt="El Oso y el Madroño - Main view in Madrid, Spain"
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

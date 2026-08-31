@@ -1,7 +1,9 @@
 import { useTranslations, useMessages } from 'next-intl';
+import RichInline from './RichInline';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const tCrumb = useTranslations('breadcrumbs');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
@@ -10,6 +12,20 @@ export default function Intro() {
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        <nav
+          aria-label="Geographic breadcrumb"
+          className="mb-6 text-sm tracking-wide flex flex-wrap items-center gap-2"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          <span style={{ color: 'var(--accent)' }}>{tCrumb('attraction')}</span>
+          <span aria-hidden="true"> {tCrumb('separator')} </span>
+          <span>{tCrumb('city')}</span>
+          <span aria-hidden="true"> {tCrumb('separator')} </span>
+          <span>{tCrumb('region')}</span>
+          <span aria-hidden="true"> {tCrumb('separator')} </span>
+          <span>{tCrumb('country')}</span>
+        </nav>
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -19,10 +35,24 @@ export default function Intro() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-6 first-letter:font-semibold"
+          style={{ color: 'var(--text-secondary)' }}
+        >
+          <RichInline text={t('equivalenceStatement')} />
+        </p>
+
+        <p
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}
+        </p>
+
+        <p
+          className="text-lg leading-relaxed mb-12"
+          style={{ color: 'var(--text-secondary)' }}
+        >
+          <RichInline text={t('nearbyCluster')} />
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

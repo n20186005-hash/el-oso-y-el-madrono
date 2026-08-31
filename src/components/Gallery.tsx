@@ -4,20 +4,20 @@ import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/el-oso-y-el-madrono (1).jpg', alt: 'El Oso y el Madroño Photo 1' },
-  { src: '/gallery/el-oso-y-el-madrono (2).jpg', alt: 'El Oso y el Madroño Photo 2' },
-  { src: '/gallery/el-oso-y-el-madrono (3).jpg', alt: 'El Oso y el Madroño Photo 3' },
-  { src: '/gallery/el-oso-y-el-madrono (4).jpg', alt: 'El Oso y el Madroño Photo 4' },
-  { src: '/gallery/el-oso-y-el-madrono (5).jpg', alt: 'El Oso y el Madroño Photo 5' },
-  { src: '/gallery/el-oso-y-el-madrono (6).jpg', alt: 'El Oso y el Madroño Photo 6' },
-  { src: '/gallery/el-oso-y-el-madrono (7).jpg', alt: 'El Oso y el Madroño Photo 7' },
-  { src: '/gallery/el-oso-y-el-madrono (8).jpg', alt: 'El Oso y el Madroño Photo 8' },
-  { src: '/gallery/el-oso-y-el-madrono (9).jpg', alt: 'El Oso y el Madroño Photo 9' },
-  { src: '/gallery/el-oso-y-el-madrono (10).jpg', alt: 'El Oso y el Madroño Photo 10' },
-  { src: '/gallery/el-oso-y-el-madrono (11).jpg', alt: 'El Oso y el Madroño Photo 11' },
-  { src: '/gallery/el-oso-y-el-madrono (12).jpg', alt: 'El Oso y el Madroño Photo 12' },
-  { src: '/gallery/el-oso-y-el-madrono (13).jpg', alt: 'El Oso y el Madroño Photo 13' },
-  { src: '/gallery/el-oso-y-el-madrono (14).jpg', alt: 'El Oso y el Madroño Photo 14' },
+  { src: '/gallery/el-oso-y-el-madrono (1).jpg', alt: 'El Oso y el Madroño - Main view in Madrid, Spain' },
+  { src: '/gallery/el-oso-y-el-madrono (2).jpg', alt: 'Puerta del Sol near El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (3).jpg', alt: 'Reloj de la Puerta del Sol near El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (4).jpg', alt: 'City center streets near El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (5).jpg', alt: 'El Oso y el Madroño sculpture detail' },
+  { src: '/gallery/el-oso-y-el-madrono (6).jpg', alt: 'Detail of El Oso y el Madroño in Madrid' },
+  { src: '/gallery/el-oso-y-el-madrono (7).jpg', alt: 'Coat of arms of Madrid with El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (8).jpg', alt: 'Area around El Oso y el Madroño statue' },
+  { src: '/gallery/el-oso-y-el-madrono (9).jpg', alt: 'Night view of El Oso y el Madroño in Madrid' },
+  { src: '/gallery/el-oso-y-el-madrono (10).jpg', alt: 'Tourists visiting El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (11).jpg', alt: 'Surrounding architecture near El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (12).jpg', alt: 'Sunset at Puerta del Sol near El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (13).jpg', alt: 'Quiet morning at El Oso y el Madroño' },
+  { src: '/gallery/el-oso-y-el-madrono (14).jpg', alt: 'City views of Madrid around El Oso y el Madroño' },
 ];
 
 export default function Gallery() {

@@ -11,16 +11,25 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "El Oso y el Madroño",
-    "subtitle": "Sculpture · Madrid",
+    "title": "El Oso y el Madroño (Madrid)",
+    "subtitle": "Monumental Sculpture · Puerta del Sol",
     "rating": "4.6",
-    "reviewCount": "8,361 reviews",
+    "reviewCount": "8,893 reviews",
     "type": "Sculpture",
     "openMaps": "View on Google Maps"
   },
+  "breadcrumbs": {
+    "attraction": "El Oso y el Madroño",
+    "city": "Madrid",
+    "region": "Community of Madrid",
+    "country": "Spain",
+    "separator": "→"
+  },
   "intro": {
-    "title": "Discover El Oso y el Madroño",
+    "title": "About El Oso y el Madroño",
+    "equivalenceStatement": "Welcome to **El Oso y el Madroño**, widely recognized as the central **El Oso y el Madroño**. Located in the heart of **Madrid**, **Community of Madrid**, **Spain**, this destination serves as a primary hub for travelers visiting the region.",
     "description": "El Oso y el Madroño is one of Madrid's most iconic monuments. Located in the famous Puerta del Sol, this symbol represents the city's coat of arms and is a must-visit meeting point for locals and tourists alike.",
+    "nearbyCluster": "When visiting **El Oso y el Madroño**, visitors can easily explore surrounding historical landmarks and points of interest, including **Puerta del Sol** and **Plaza Mayor**.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -40,12 +49,22 @@
     }
   },
   "knowledge": {
-    "title": "About El Oso y el Madroño",
+    "title": "History & Significance of El Oso y el Madroño",
     "sections": [
       {
         "id": "history",
         "title": "Historical Background",
-        "content": "El Oso y el Madroño is a bronze sculpture created by artist Antonio Navarro Santafé in 1967. It represents the coat of arms of Madrid, showing a bear feeding on the fruits of a strawberry tree (madroño). The current statue is the third version, installed in its current location in 2009."
+        "content": "El Oso y el Madroño is a bronze sculpture created by the artist Antonio Navarro Santafé and inaugurated on 19 January 1967. To materialise one of the city's symbols, the Madrid City Council decided to erect it on the very site that had once held the historic Fuente de la Mariblanca, at the nerve centre of Puerta del Sol. It depicts the bear standing before the strawberry tree (madroño), figures taken from the arms adopted by the Villa as early as the reign of Alfonso VIII. The present statue is the third version, reinstalled at its reference location in 2009."
+      },
+      {
+        "id": "heraldic",
+        "title": "Heraldic Origins",
+        "content": "Already under Alfonso VIII, the inhabitants of the Villa carried on their banner a \"bear or she-bear passant with seven stars along its back\" and bore it into the Battle of Las Navas de Tolosa in 1212. Later, following a lawsuit that opposed the Villa to the Cabildo de Curas over ownership of the pastures and woodlands, it was agreed that the pastures would pass to the Cabildo — who used the passant bear in their coat of arms — while the Villa retained the trees and the game, adopting for its own arms the strawberry tree and the bear rampant before it. This blazon endured until 1859, when the single quarter previously displayed was divided into three: the first bearing a griffin or golden wyvern, the second the bear climbing the strawberry tree, and, beneath both, the civic crown."
+      },
+      {
+        "id": "commission",
+        "title": "Commission and Historical Locations",
+        "content": "On 14 November 1966, the Cultural Department of the City Council submitted a memorandum to the Mayor requesting that the coat of arms of the Villa recover its historical tradition of the bear rampant before the strawberry tree, further proposing that a monument be executed for installation in some emblematic spot of the capital, a popular symbol for tourists. On 17 December of the same year it was resolved that it should be erected in Puerta del Sol, at the junction of Calle de Alcalá and Carrera de San Jerónimo, where it was definitively installed on 10 January 1967; it was later moved to the head of Calle del Carmen. On the occasion of the works carried out in Puerta del Sol, the statue was removed and subsequently re-sited close to its original position, at the meeting point between Calle de Alcalá and Puerta del Sol. The sculptor also produced 24 small replicas that the City Council used as institutional gifts or municipal trophies."
       },
       {
         "id": "symbolism",
@@ -53,9 +72,14 @@
         "content": "The bear and the strawberry tree are the central elements of Madrid's coat of arms. The bear represents the abundance of wildlife in the forests that surrounded the original city, while the strawberry tree (madroño) is a common species in the Community of Madrid region."
       },
       {
-        "id": "location",
-        "title": "Location",
-        "content": "The sculpture is situated in Puerta del Sol, specifically next to the General Directorate of Police building. It is one of the most popular meeting points in Madrid and a must-stop for tourists."
+        "id": "formalmaterials",
+        "title": "Formal Description & Materials",
+        "content": "One of the most popular monuments in the capital, it represents in bronze the figures of the Madrid coat of arms: the bear leaning against the strawberry tree, both resting on a simple limestone base and a granite pedestal. The work is signed and dated by Antonio Navarro Santafé, as attested by the inscription «NAVARRO SANTAFÉ - MCMLVI» on the right-hand side; the rear face also bears the signature of the founder: «ÁNGEL / FUNDIDOR». Its dimensions are 4.50 × 2.50 × 2.00 metres, the material is metallic (bronze), and its ownership corresponds to the Madrid City Council."
+      },
+      {
+        "id": "maintenance",
+        "title": "Restoration & Maintenance Status",
+        "content": "According to the official record of Monumenta Madrid (Patrimonio y Paisaje, Madrid City Council), the following historical conservation intervention is registered: PLACEMENT OF LIMESTONE PLINTH, JOINT REPOINTING AND CLEANING, executed on 22 March 1976 by Artes Gran Vía (workshop) and Chicharro Reproduciones Artísticas, with a budget of 6,350 pesetas (Inventory 940, File 338, Certification). The monument is of municipal property, managed and conserved by the Heritage and Landscape Area of the Madrid City Council, district/neighbourhood SOL / CENTRO."
       },
       {
         "id": "cultural",
@@ -66,6 +90,43 @@
         "id": "visiting",
         "title": "Visiting Information",
         "content": "The sculpture can be visited at any time, as it is located in an outdoor public space. Puerta del Sol is accessible 24 hours a day and is well connected by public transportation."
+      },
+      {
+        "id": "legends",
+        "title": "Legends & Local Folklore",
+        "content": "Centuries of Madrid oral tradition surround the monument. The most widely recounted legend explains the bear and the strawberry tree as the result of a medieval settlement between the Villa (township) and the Cabildo de Curas (chapter of canons) over pasture and woodland rights: the pasturelands were granted to the clergy, while the wooded hills remained with the townsfolk — hence the Villa adopted the bear (associated with the hunt) together with the strawberry tree, the fruiting tree emblematic of the nearby forests. Another enduring local tale holds that the bear was originally shown passant (walking) on the coat of arms until the 16th century, and that the Battle of Las Navas de Tolosa in 1212 turned the figure into a shared badge of identity. Puerta del Sol itself also cradles its own modern urban legends around the Kilómetro Cero marker: it is popularly described as the \"navel of Spain\", and the Christmas bells from which the Twelve Lucky Grapes of New Year's Eve are counted hang in the very same Real Casa de Correos building, only a few metres away from the statue."
+      },
+      {
+        "id": "seasonal",
+        "title": "Seasonal Events & Traditions Around Puerta del Sol",
+        "content": "Although the monument is always open, its surroundings see peaks of activity tied to deep-seated popular traditions worth anticipating. During the Christmas season (approximately 1 December to 6 January) Puerta del Sol hosts the official switch-on of Madrid's city-wide Christmas lights, large outdoor festive installations and a seasonal Christmas booth that draws thousands of visitors. New Year's Eve (31 December) is the emblematic date: the clock tower of Puerta del Sol broadcasts the twelve chimes that pace the Twelve Grapes of Luck, a nationwide custom televised for more than six decades. In May, around the feast day of 15 May, the Fiestas de San Isidro take over the district with open-air verbenas, chotis dances and classic Madrid street food. From late June to early July, Madrid Pride Week (and the city's editions of WorldPride) turns Puerta del Sol into the gathering and departure point, with Plaza de España and Gran Vía all within a short walk. Other recurring high-attendance moments include May Day rallies, major sports celebrations and New Year's Day open-air concerts."
+      }
+    ],
+    "sourcesTitle": "Sources & Bibliography",
+    "sources": [
+      {
+        "id": "s1",
+        "author": "Gea Ortigas, María Isabel",
+        "title": "Guía del patrimonio cultural de Madrid",
+        "pub": "Madrid: La Librería, 2000"
+      },
+      {
+        "id": "s2",
+        "author": "Baztán Vergara, Francisco",
+        "title": "Manual informativo de la Villa de Madrid",
+        "pub": "Madrid: Artes Gráficas Municipales, 1967"
+      },
+      {
+        "id": "s3",
+        "author": "Fernández Delgado, Javier; Miguel Pasamontes, Mercedes; Vega González, María Jesús",
+        "title": "Informe sobre los monumentos conmemorativos de Madrid. 1939-1979",
+        "pub": "El Viso, no. 66, 1980, pp. 71-73"
+      },
+      {
+        "id": "s4",
+        "author": "Madrid City Council · Heritage and Landscape (Monumenta Madrid)",
+        "title": "Monument record «Oso y Madroño»",
+        "pub": "Institutional portal of the Madrid City Council, accessed 31 August 2026"
       }
     ]
   },
@@ -74,13 +135,29 @@
     "officialName": "Official Name",
     "officialNameValue": "El Oso y el Madroño",
     "type": "Attraction Type",
-    "typeValue": "Monumental Sculpture",
+    "typeValue": "Monumental Sculpture (bronze)",
     "country": "Country",
     "countryValue": "Spain",
     "city": "City",
     "cityValue": "Madrid",
+    "district": "Neighbourhood / District",
+    "districtValue": "Sol / Centro",
+    "author": "Sculptor",
+    "authorValue": "Antonio Navarro Santafé",
+    "founder": "Art Founder",
+    "founderValue": "Ángel (signed on rear face)",
+    "date": "Date of creation / inauguration",
+    "dateValue": "1966 / 19 January 1967",
+    "dimensions": "Dimensions",
+    "dimensionsValue": "4.50 × 2.50 × 2.00 m",
+    "materials": "Materials",
+    "materialsValue": "Bronze (sculpture) · Limestone base and granite pedestal",
+    "inscription": "Inscription",
+    "inscriptionValue": "«NAVARRO SANTAFÉ - MCMLVI» (right-hand side)",
+    "ownership": "Ownership",
+    "ownershipValue": "Municipal (Madrid City Council)",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (8,361)",
+    "googleRatingValue": "4.6 (8,893)",
     "address": "Address",
     "addressValue": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
     "plusCode": "Plus Code",
@@ -107,7 +184,7 @@
     "guidedPrice": "Self-guided (public space)"
   },
   "transport": {
-    "title": "How to Get Here",
+    "title": "Location & How to Visit El Oso y el Madroño in Madrid",
     "fromCenter": "From Madrid City Center",
     "fromCenterDesc": "The monument is located in Puerta del Sol, in the heart of Madrid.",
     "fromStation": "From Train Station",
@@ -133,7 +210,7 @@
     ]
   },
   "photoSpots": {
-    "title": "Top Photo Spots",
+    "title": "Landmarks & Attractions Around El Oso y el Madroño",
     "spots": [
       {
         "title": "El Oso y el Madroño",
@@ -256,7 +333,31 @@
     "title": "Map Location",
     "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
     "openMaps": "View on Google Maps",
-    "mapLink": "https://maps.app.goo.gl/6CeTgviM5Pi9HLreA"
+    "mapLink": "https://maps.app.goo.gl/6CeTgviM5Pi9HLreA",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.6306979585643!2d-3.7027423000000006!3d40.417031300000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287e1994e237%3A0xaf820688ee88e2d1!2z54aK5ZKM5qCR6I6T6ZuV5YOP!5e0!3m2!1szh-CN!2s!4v1788147929433!5m2!1szh-CN!2s",
+    "officialTourismTitle": "Official Tourism Portal",
+    "officialTourismPrefix": "For official updates and regional tourism information, visit ",
+    "officialTourismLinkText": "Spain / Community of Madrid · Official Tourism Portal",
+    "officialTourismSuffix": ".",
+    "officialTourismUrl": "https://www.esmadrid.com/"
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most common questions about visiting",
+    "items": [
+      {
+        "question": "Where is El Oso y el Madroño located?",
+        "answer": "El Oso y el Madroño is located at Puerta del Sol in the very center of Madrid, Community of Madrid, Spain."
+      },
+      {
+        "question": "Is El Oso y el Madroño free to visit?",
+        "answer": "Yes, El Oso y el Madroño is a public space and is free to visit year-round. No ticket or reservation is required."
+      },
+      {
+        "question": "What is near El Oso y el Madroño?",
+        "answer": "When visiting El Oso y el Madroño, visitors can easily explore surrounding historical landmarks and points of interest, including Puerta del Sol and Plaza Mayor."
+      }
+    ]
   },
   "footer": {
     "brandName": "El Oso y el Madroño",
@@ -333,5 +434,318 @@
   "officialManagement": {
     "title": "About El Oso y el Madroño",
     "text": "El Oso y el Madroño is an iconic monument located in Puerta del Sol in Madrid, Spain. It is a representation of the official insignia of the city and an iconic meeting point managed and maintained by the Madrid City Council."
+  },
+  "amenities": {
+    "title": "Amenities & public facilities around the monument",
+    "subtitle": "Public services available nearby (types of infrastructure only; no commercial names).",
+    "intro": "Puerta del Sol concentrates an extremely high density of both public and private urban services, so visitors can cover most everyday needs without leaving the immediate surroundings. Below is a category-based inventory of the types of facilities available in the area (general classes are described; no specific venues are recommended in order to preserve editorial neutrality).",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Public and accessible restrooms",
+        "desc": "Pay-per-use public restrooms in the immediate vicinity, as well as free restrooms open to the public inside retail and food-service establishments (according to municipal regulations). Most include an accessible wheelchair cabin, grab bars, an adapted sink, and a baby-changing table."
+      },
+      {
+        "id": "water",
+        "title": "Drinking water fountains",
+        "desc": "Public mains-fed drinking water fountains maintained by the Madrid City Council, located in adjacent streets and squares and ideal for refilling reusable bottles. They operate year-round."
+      },
+      {
+        "id": "babycare",
+        "title": "Breastfeeding and infant care spaces",
+        "desc": "Baby-changing facilities in public restrooms and inside most nearby shopping centres; a few large retail venues also offer private, air-conditioned nursing rooms."
+      },
+      {
+        "id": "accessibility",
+        "title": "Universal accessibility",
+        "desc": "The entire Puerta del Sol area has barrier-free paving, acoustically signalled pedestrian crossings, universal ramps on all neighbouring public buildings, and step-free access to metro and buses at the Sol interchange. The monument itself is at sidewalk level with no steps."
+      },
+      {
+        "id": "wifi",
+        "title": "Municipal public Wi‑Fi",
+        "desc": "Free public Wi‑Fi hotspots of the Madrid municipal network available across Puerta del Sol and Gran Vía with optional registration. Many cafés, department stores and metro stations around the area also offer open wireless access to customers."
+      },
+      {
+        "id": "charge",
+        "title": "USB charging points and power outlets",
+        "desc": "Pilot USB charging columns on public benches plus additional power outlets and charging ports available in cafés, nearby public libraries, metro stations and surrounding shopping malls to recharge phones, cameras and power banks."
+      },
+      {
+        "id": "atm",
+        "title": "ATMs and bank branches",
+        "desc": "Very high density of automated teller machines from multiple banking entities on adjacent streets, generally available 24/7. Most accept Visa, Mastercard and Maestro; some also dispense foreign currency."
+      },
+      {
+        "id": "lockers",
+        "title": "Luggage lockers and left-luggage facilities",
+        "desc": "Left-luggage services in the immediate surroundings of Atocha station (less than 2 km away), as well as dedicated hourly or daily luggage-storage establishments located in the city centre."
+      },
+      {
+        "id": "seating",
+        "title": "Seating and shaded rest areas",
+        "desc": "Public benches on Puerta del Sol itself and on nearby squares (Plaza Mayor, neighbouring plazas). In summer, nearby public buildings, municipal libraries and department stores also provide air-conditioned through-access areas to shelter from the heat."
+      },
+      {
+        "id": "info",
+        "title": "Public tourist information offices",
+        "desc": "Municipal Madrid Tourist Office located on Puerta del Sol itself, with multilingual staff, free maps and leaflets, transport information and visitor assistance; digital touch-screen information points are also distributed around the square."
+      }
+    ],
+    "tip": "Note that, as one of the busiest areas in Madrid, waiting times at restrooms, cash machines and other public services can increase significantly at peak hours and during key dates (Christmas, San Isidro festival, New Year's Eve)."
+  },
+  "parking": {
+    "title": "Parking & road mobility",
+    "subtitle": "Types of parking available in central Madrid (no specific brands or operators recommended).",
+    "intro": "Puerta del Sol lies inside Madrid's traffic-restricted city-centre zone and the main pedestrian precinct; there is no on-street parking directly on the square itself and private cars must use underground car parks in adjacent streets. Below are the general categories of parking infrastructure available in the area.",
+    "items": [
+      {
+        "id": "underground",
+        "title": "Public underground car parks",
+        "desc": "Multi-storey underground car parks operated under municipal administrative concession, with ramp access from streets adjoining Puerta del Sol (Calle de Alcalá, Carrera de San Jerónimo, Calle del Carmen, Calle Montera, etc.). They offer hourly, half-day, full-day and season-ticket rates and are normally open 24/7, 365 days a year."
+      },
+      {
+        "id": "ser",
+        "title": "Regulated on-street parking (SER)",
+        "desc": "Residential and commercial streets in the Sol, Centro, Cortes and Justicia neighbourhoods operate the SER regulated parking scheme, with pay-and-display parking meters or mobile app payment, maximum time limits on working days and reduced rates on Saturday afternoons and Sundays."
+      },
+      {
+        "id": "motorbike",
+        "title": "Motorcycle and moped bays",
+        "desc": "Signed motorcycle, moped and electric scooter bays on neighbouring streets, often free of charge for two-wheel vehicles or subject to discounts. It is advisable to check the specific vertical traffic signs of each street."
+      },
+      {
+        "id": "bike",
+        "title": "Bicycle parking and BiciMAD stations",
+        "desc": "BiciMAD stations (the regional public bicycle-sharing scheme) in the immediate vicinity, plus multiple public metal bike racks distributed along Sol and Gran Vía sidewalks. The city centre is also the arrival point for most cycle lanes in the historic centre."
+      },
+      {
+        "id": "taxi",
+        "title": "Official taxi and VTC ranks",
+        "desc": "An official licensed Madrid taxi rank is located directly on Puerta del Sol, together with pick-up points for VTC (private hire) vehicles authorised by the City Council. Madrid taxis are white with a green stripe, use a visible taximeter, and can also be booked via mobile apps."
+      },
+      {
+        "id": "pmr",
+        "title": "Disabled (PMR) parking bays",
+        "desc": "All public underground car parks in the area include properly signed reserved disabled parking spaces, usually located on the first rows next to lifts and access corridors. A valid European disability parking badge must be displayed to use them."
+      },
+      {
+        "id": "ev",
+        "title": "Electric vehicle charging",
+        "desc": "Fast and semi-fast EV chargers are available in several of the concessionary underground car parks downtown, plus municipal on-street charging points in adjacent neighbourhoods. Most support contactless bank card or operator-app payment."
+      },
+      {
+        "id": "dropoff",
+        "title": "Loading bays and short-term drop-off zones",
+        "desc": "Morning loading/unloading windows in commercial perimeter streets, plus 3–5 minute short-term passenger pick-up and drop-off zones marked with blue horizontal road markings."
+      }
+    ],
+    "tip": "Remember that Puerta del Sol falls within Madrid's Central District traffic restriction zone, which limits private-vehicle access according to the DGT environmental sticker label; it is advisable to consult the current municipal traffic regulations before driving a private car into the area."
+  },
+  "foodDrink": {
+    "title": "Food, drink & café options",
+    "subtitle": "Categories of food-service establishments available (neutral descriptions, no commercial names).",
+    "intro": "Puerta del Sol and Madrid's city centre host one of the densest food-and-drink ecosystems in Europe. In order to preserve the site's editorial neutrality, only the general types and genres of venues a visitor can expect to find are described; no specific brands or establishments are compared or recommended.",
+    "items": [
+      {
+        "id": "tapas",
+        "title": "Tapas bars and taverns",
+        "desc": "A classic Madrid format: small to mid-sized venues serving small plates (raciones) and tapas, paired with white wine, beer, vermouth or soft drinks. Most run a continuous daytime service with optional afternoon closure. A tapas is often offered as a courtesy with every drink purchased."
+      },
+      {
+        "id": "sitdown",
+        "title": "Full-service table restaurants",
+        "desc": "Seated, waiter-service restaurants with printed menus, covering a very wide price range from affordable daily set menus to haute cuisine. Most accept reservations by phone or online; many also offer tasting menus. The full spectrum of Spanish and international cuisines is represented within a short walking radius."
+      },
+      {
+        "id": "takeaway",
+        "title": "Takeaways and quick-service restaurants",
+        "desc": "Dedicated takeaway outlets (pizza, burgers, sandwiches, sushi, kebab, salads, calamari sandwiches and other urban formats), as well as international chains and local quick-service establishments offering pre-cooked food to eat on the street or back at the visitor's accommodation."
+      },
+      {
+        "id": "vegetarian",
+        "title": "Vegetarian, vegan and special-diet options",
+        "desc": "A growing number of fully vegetarian or vegan venues, plus gluten-free, lactose-free and allergy-adapted dishes available in most restaurants in the area. Most establishments disclose allergen information according to EU consumer-information regulations."
+      },
+      {
+        "id": "cafe",
+        "title": "Cafés and pastries",
+        "desc": "Traditional Madrid-style cafés serving breakfast, elevenses, afternoon tea and evening drinks, together with pastry shops and bakeries offering croissants, puff pastry, seasonal Roscón de Reyes Christmas cake, ensaimadas and other typical Spanish and Madrid sweets."
+      },
+      {
+        "id": "brunch",
+        "title": "Brunch and speciality coffeehouses",
+        "desc": "Brunch-focused venues (weekends, typically Saturday and Sunday 11:00–16:00) with egg dishes, toast, crêpes, pancakes, avocado, fresh juices and origin coffee; plus speciality coffeehouses offering espresso, AeroPress, pour-over, cold brew and other alternative brew methods."
+      },
+      {
+        "id": "icecream",
+        "title": "Ice cream parlours and slushy shops",
+        "desc": "Artisanal seasonal ice cream parlours offering classic and signature flavours, sorbets, frozen yoghurt, sundaes, milkshakes and slushies. They operate mainly in spring and summer, although several major chains remain open all year round."
+      },
+      {
+        "id": "nightlife",
+        "title": "Late-night bars and nightlife formats",
+        "desc": "Bars and pubs open until the early hours in neighbouring streets (Huertas, Sol, Gran Vía, Tribunal), plus rooftop cocktail bars, heated terraces and themed bar concepts, all subject to the municipal noise and closing-hours ordinances."
+      }
+    ],
+    "tip": "On high-demand dates (Christmas, Holy Week, San Isidro, long weekends, etc.) many full-service restaurants require prior reservation; tapas bars and walk-in venues can usually accommodate waiting customers without a booking."
+  },
+  "lodging": {
+    "title": "Accommodation categories in the city centre",
+    "subtitle": "Lodging classifications by category, format and use; no brands or specific hotels listed.",
+    "intro": "Puerta del Sol sits at the very heart of Madrid's Centro district, where accommodation offerings are highly varied in category, format and rate. Below is a classification of the general lodging categories available in the area (no hotel chains, brands or specific properties are recommended, and no comparative ratings are offered).",
+    "items": [
+      {
+        "id": "hostel",
+        "title": "Budget hostels and backpacker lodges",
+        "desc": "Low-cost shared-occupancy accommodation with dormitory rooms of 4, 6, 8, 10+ bunk beds, shared or en-suite bathrooms, a communal kitchen, lounge, private lockers and often organised activities. Some also offer private double or single rooms at mid-range prices; guests are typically young international travellers."
+      },
+      {
+        "id": "budget",
+        "title": "Economy hotels and 1‑2 star hostales",
+        "desc": "Basic-tier establishments with single or double bedrooms, private or shared bathrooms, 24-hour or part-time front desk, located in historic downtown buildings with direct access to the shopping streets. This is the most affordable option for a private room."
+      },
+      {
+        "id": "midrange",
+        "title": "Midrange and business hotels (3‑4 stars)",
+        "desc": "The most numerous category in central Madrid: 3‑ or 4‑star hotels with en-suite bathrooms, in-room safe, minibar, 24‑hour reception, buffet or continental breakfast, Wi‑Fi, a small gym, meeting rooms and usually daily housekeeping."
+      },
+      {
+        "id": "boutique",
+        "title": "Boutique and design hotels",
+        "desc": "Small properties (typically under 50 rooms) with curated interior design, personalised services, a focus on local identity, and often housed in protected or renovated late‑19th/early‑20th century buildings. Many include artisan breakfasts, rooftop terraces or craft cocktail bars."
+      },
+      {
+        "id": "luxury",
+        "title": "Luxury and five-star grand hotels",
+        "desc": "Five-star 'gran lujo' properties, concentrated around Gran Vía, Paseo del Prado, Recoletos and the Salamanca district; some belong to international chains while others are independent. Typical amenities include concierge, awarded restaurants, indoor or outdoor pools, spa, valet parking and multi-category suites."
+      },
+      {
+        "id": "apartments",
+        "title": "Holiday apartments and short-term rentals",
+        "desc": "Properties managed by lodging platforms or professional operators, featuring a fully equipped kitchen, independent access, one or more bedrooms, living area, one or more bathrooms, and often a washer/dryer and balcony. Sizes range from studios for two to large group apartments sleeping up to 10."
+      },
+      {
+        "id": "homestays",
+        "title": "Urban homestays and private-room guest houses",
+        "desc": "Private rooms for rent inside owner-occupied homes, with optional breakfast or half-board, plus guest houses, classic pensiones and budget guesthouses scattered through Huertas and La Latina, all regulated under municipal lodging rules."
+      },
+      {
+        "id": "extended",
+        "title": "Aparthotels and extended-stay accommodation",
+        "desc": "Mixed hotel-apartment formats designed for multi-day, weekly or monthly stays, with reception service, periodic housekeeping, built-in kitchens in all units and discounted long-stay rates. Ideal for business travel, relocations or long family trips."
+      }
+    ],
+    "tip": "Rates in central Madrid are dynamic and depend on seasonality (Christmas, Holy Week), trade fairs (Book Fair, ARCO art fair, FITUR tourism fair), San Isidro and sports events; it is advisable to compare prices across multiple authorised channels with sufficient lead time."
+  },
+  "services": {
+    "title": "Essential neighbourhood services",
+    "subtitle": "Categories of day-to-day necessities available nearby; no commercial recommendations.",
+    "intro": "The Centro district and its Puerta del Sol node support one of the highest densities of essential services anywhere in Spain. Below is an inventory of general service classes available to the visitor, with no specific establishments or brands recommended (editorial neutrality preserved).",
+    "items": [
+      {
+        "id": "grocery",
+        "title": "Grocery stores, supermarkets and convenience shops",
+        "desc": "Midrange and large-format supermarkets with continuous opening hours, plus 24-hour convenience stores at strategic downtown locations. They offer fresh and frozen food, cleaning products, beverages, toiletries and basic cosmetics; many also provide transport-card top-ups and mobile phone recharges."
+      },
+      {
+        "id": "pharmacy",
+        "title": "Pharmacies and on-call night service",
+        "desc": "A very dense network of community pharmacies on every adjacent street, including rotating on-call overnight and Sunday pharmacies as published by the Official College of Pharmacists. Many also offer para-pharmacy, dermocosmetics, first-aid supplies and over-the-counter travel vaccines."
+      },
+      {
+        "id": "health",
+        "title": "Primary healthcare and emergency services",
+        "desc": "Madrid City Council primary health centres nearby, plus hospital emergency departments and private clinics within 2 km of the square. For medical emergencies the national multilingual helpline 112 is available around the clock. Private ambulances and quick unscheduled telemedicine consultations are also on offer."
+      },
+      {
+        "id": "fuel",
+        "title": "Petrol stations and EV fast-charging hubs",
+        "desc": "Conventional service stations (95/98 petrol, diesel, LPG) on the central ring roads (Paseo Imperial, Calle de Serrano, etc.), plus fast and ultra-fast EV charging hubs run by both public and private operators across the Centro district and its immediate surroundings. Most accept contactless card payment."
+      },
+      {
+        "id": "bank",
+        "title": "Bank branches, cash machines and currency exchange",
+        "desc": "Branches of most Spanish and some international high-street banks during business hours, 24/7 cash machines on every commercial thoroughfare, and licensed foreign-exchange bureaux converting euros/dollars/pounds/yuan/Swiss francs and other currencies at competitive rates. Verify individual holiday opening hours beforehand."
+      },
+      {
+        "id": "post",
+        "title": "Post offices and parcel services",
+        "desc": "Correos Españoles post offices downtown offering domestic and international mail, registered post, parcels, stamps, postal orders and express-delivery drop-off; plus international parcel couriers with scheduled collection and delivery points spread through the historic centre."
+      },
+      {
+        "id": "police",
+        "title": "Police stations, information points and lost-property office",
+        "desc": "A National Police station and the Madrid Provincial Police Headquarters are within walking distance; the City Council also runs a municipal Lost & Found Office. National Police, Municipal Police and Civil Guard maintain a visible presence during large public events. Emergency telephone numbers: 091 (National Police), 062 (Civil Guard), 112 (Emergency Services)."
+      },
+      {
+        "id": "repairs",
+        "title": "Repair shops, copy centres and locksmiths",
+        "desc": "24-hour emergency locksmiths; shoe repair and leather-goods repair workshops; mobile phone, laptop and accessory repair shops; copy/print centres offering scanning, binding and postal mailing; and walk-in barbershops and hair salons for urgent or unscheduled personal grooming."
+      },
+      {
+        "id": "laundry",
+        "title": "Self-service laundrettes and dry cleaners",
+        "desc": "Coin- or card-operated self-service laundrettes with commercial washers and dryers; dry cleaners for delicate garments, ironing, dry cleaning and clothing alterations; several venues are within 5 minutes' walk of Puerta del Sol, often staying open late into the evening."
+      },
+      {
+        "id": "lostfound",
+        "title": "Municipal lost-and-found service",
+        "desc": "Citizen and visitor assistance point where travellers can report or collect items lost in the public domain (identity documents, cards, wallets, mobile phones, luggage, coats, etc.). Managed by the Madrid City Council, it operates a central physical office and an online reporting form."
+      }
+    ],
+    "tip": "If you lose official identification, a passport or a health card, contact the nearest police station immediately (091 / 112); foreign nationals should additionally get in touch with their country's embassy or consular section."
+  },
+  "photoEtiquette": {
+    "title": "Photography tips, visitor etiquette & best practice",
+    "subtitle": "Guidelines for capturing the monument and surroundings while respecting municipal rules.",
+    "intro": "As a public square home to one of the most photographed monuments in Madrid, it is useful to be aware of a set of technical, timing and behavioural recommendations that help make every visitor's experience pleasant and allow for quality imagery without disrupting public coexistence.",
+    "items": [
+      {
+        "id": "bestlight",
+        "title": "Best time of day and light for photography",
+        "desc": "From a natural-light standpoint, the most recommended windows for photographing the monument are the two hours after sunrise and the two hours before sunset (blue hour and golden hour). At midday the light is much harsher and casts heavy shadows under the pedestal. At night the monument remains floodlit and works very well for urban portraits with the lit square as backdrop."
+      },
+      {
+        "id": "tripod",
+        "title": "Tripods, gimbals and light reflectors",
+        "desc": "For photographic setups involving tripods, portable promotional barriers or professional lighting rigs, you must first consult the current Madrid municipal public-highway occupation regulations and, if required, submit a permit application through the corresponding City Council platform. Occasional use of a small travel tripod, monopod or gimbal for strictly personal use does not normally require prior authorisation, as long as it does not block pedestrian traffic."
+      },
+      {
+        "id": "drones",
+        "title": "Drones and unmanned aircraft",
+        "desc": "The airspace above central Madrid and specifically Puerta del Sol falls within a controlled airport security zone and is regulated by municipal byelaws; drone flights in the area are expressly prohibited without a specific aviation-and-police permit. Violations may trigger administrative fines by the national aviation safety agency and police authorities."
+      },
+      {
+        "id": "flash",
+        "title": "Night flash and artificial lighting",
+        "desc": "Indiscriminate on-camera flash by night-time visitors often produces unwanted reflections on the pedestal and bronze, as well as nuisance for other visitors. Ambient light, a higher ISO setting or a long-exposure tripod shot are strongly preferred over direct flash."
+      },
+      {
+        "id": "touching",
+        "title": "Do not touch or climb the statue",
+        "desc": "The bronze monument requires periodic conservation maintenance by the City Council. For preservation and safety reasons, visitors are kindly requested not to climb the base, step onto the pedestal, handle the bronze directly with bare hands, or apply graffiti, paint marks or adhesive stickers in the vicinity. Any damage may constitute an administrative offence under municipal ordinances."
+      },
+      {
+        "id": "selfies",
+        "title": "Group photos and selfies: no-blocking zones",
+        "desc": "Please take group photos, selfies, wedding shots and travel portraits on the lateral sides and open pedestrian areas, avoiding clustered gatherings right next to walkways and metro entrances so as not to obstruct footfall on one of Spain's busiest public squares. The square steps are a traditional meeting point."
+      },
+      {
+        "id": "privacy",
+        "title": "Image rights and personal privacy",
+        "desc": "When taking photographs in public, respect everyone's right to personal image. For commercial, advertising or editorial portraits of the monument featuring clearly identifiable individuals, obtain explicit written consent unless specifically exempted under copyright and image-rights law."
+      },
+      {
+        "id": "seasons",
+        "title": "Seasonal visiting advice",
+        "desc": "Christmas: the monument is framed by festive lights, Christmas trees and huts, producing very appealing compositions but also extremely high visitor density. Holy Week: processions pass through Puerta del Sol (especially on Good Friday) with evocative visual contexts. San Isidro and Madrid Pride: colourful festive atmospheres. New Year's Eve: access controls and perimeter closures are enforced, so plan to arrive several hours in advance if you wish to shoot the chimes with the monument in the foreground."
+      },
+      {
+        "id": "nearbyspots",
+        "title": "Alternative nearby vantage points",
+        "desc": "Besides the square itself, angles widely used by local photographers include the top of Calle de Alcalá, Plaza de Cibeles (a 10-minute walk), rooftop terraces of adjacent public buildings when open to the public, and narrow side streets offering vertical framed views of the monument between facades. The Sol metro hub also features underground concourses and roundabouts often used for architectural shots."
+      }
+    ],
+    "tip": "Please dispose of all litter (packaging, cans, paper, face masks, etc.) in the public bins and selective waste containers around the square, helping to keep one of Madrid's most beloved symbols clean and well preserved."
   }
 }

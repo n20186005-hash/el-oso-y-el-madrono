@@ -19,11 +19,20 @@ export default function BasicInfo() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <InfoCard title={t('officialName')} value={t('officialNameValue')} />
           <InfoCard title={t('type')} value={t('typeValue')} />
+          <InfoCard title={t('author')} value={t('authorValue')} />
+          <InfoCard title={t('founder')} value={t('founderValue')} />
+          <InfoCard title={t('date')} value={t('dateValue')} />
           <InfoCard title={t('googleRating')} value={t('googleRatingValue')} />
+          <InfoCard title={t('dimensions')} value={t('dimensionsValue')} />
+          <InfoCard title={t('materials')} value={t('materialsValue')} />
+          <InfoCard title={t('inscription')} value={t('inscriptionValue')} />
+          <InfoCard title={t('ownership')} value={t('ownershipValue')} />
+          <InfoCard title={t('district')} value={t('districtValue')} />
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
           <div className="md:col-span-2 lg:col-span-2">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>
+          <InfoCard title={t('city')} value={t('cityValue')} />
         </div>
       </div>
     </section>

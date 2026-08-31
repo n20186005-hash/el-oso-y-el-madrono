@@ -10,7 +10,7 @@ export default function Footer() {
     { key: 'madridRegion', url: 'https://www.comunidad.madrid/' },
     { key: 'madridCity', url: 'https://www.esmadrid.com/' },
     { key: 'madridMemory', url: 'https://www.memoriademadrid.es/' },
-    { key: 'madridHeritage', url: 'https://monumentamadrid.es/AM_Portada/AM_Portada_WEB/index2.htm' }
+    { key: 'madridHeritage', url: 'https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Oso-y-Madrono/?vgnextfmt=default&vgnextoid=e608091d1b9c4510091d1b9c45102e085a0aRCRD&vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD' }
   ];
 
   return (
