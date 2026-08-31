@@ -239,14 +239,33 @@ export default async function LocaleLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: faqLd }}
         />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-YJTNXGWZNY" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-YJTNXGWZNY');
+              gtag('config', 'G-HXM22WWPKP');
+            `,
+          }}
+        />
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <meta name="theme-color" content="#142d1c" />
+        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+        <meta name="apple-mobile-web-app-title" content="El Oso y el Madroño" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if ('serviceWorker' in navigator) {
+                window.addEventListener('load', function () {
+                  navigator.serviceWorker.register('/sw.js').catch(function (err) {
+                    console.error('SW registration failed:', err);
+                  });
+                });
+              }
             `,
           }}
         />
